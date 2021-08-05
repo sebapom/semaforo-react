@@ -1,9 +1,5 @@
 import React from "react";
-
-//include images into your bundle
 import { useState } from "react";
-
-
 import './App.css';
 
 const TrafficLight = () => {
